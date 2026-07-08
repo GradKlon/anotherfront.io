@@ -1,10 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="proprietary/images/OpenFrontLogoDark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="proprietary/images/OpenFrontLogo.svg">
-    <img src="proprietary/images/OpenFrontLogo.svg" alt="OpenFrontIO Logo" width="300">
-  </picture>
-</p>
+# !! This is a fork of openfront and not the original. Please read the following for info on the original !!
 
 [OpenFront.io](https://openfront.io/) is an online real-time strategy game focused on territorial control and alliance building. Players compete to expand their territory, build structures, and form strategic alliances in various maps based on real-world geography.
 
